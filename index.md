@@ -1,4 +1,4 @@
-## Welcome to GitHub Pagesあ
+## ようこそ
 
 You can use the [editor on GitHub](https://github.com/tamachika/abc/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,8 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+  いち
 ## Header 2
+  に
 ### Header 3
+さん
 
 - Bulleted
 - List
